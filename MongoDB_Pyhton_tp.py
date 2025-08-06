@@ -111,4 +111,3 @@ for i in re5:
 
 client.close()  # Close the connection to MongoDB
 
-import numpy as np
